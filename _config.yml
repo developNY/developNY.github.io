@@ -1,6 +1,6 @@
 # SITE CONFIGURATION
-baseurl: "/Type-on-Strap"
-url: "https://sylhare.github.io"
+baseurl: ""
+url: "https://developny.github.io"
 
 # THEME-SPECIFIC CONFIGURATION
 title: Bri's Coding Blog                                # site's title
