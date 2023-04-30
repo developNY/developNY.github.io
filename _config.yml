@@ -5,11 +5,11 @@ url: "https://developny.github.io"
 # THEME-SPECIFIC CONFIGURATION
 title: Bri's Coding Blog                                # site's title
 description: "A website with blog posts and pages"      # used by search engines
-avatar: assets/img/triangle.png                         # Empty for no avatar in navbar
-favicon: assets/favicon.ico                             # Icon displayed in the tab
+avatar: assets/img/robot.png                       # Empty for no avatar in navbar
+favicon: assets/img/robot.png                             # Icon displayed in the tab
 
 # Header and footer text
-header_text: Change <code>header_text</code> in <code>_config.yml</code>  # Change Blog header text
+header_text: Bri's Study History  # Change Blog header text
 header_feature_image: assets/img/header/triangular.jpeg
 header_feature_image_responsive: true
 footer_text: >
